@@ -1,0 +1,35 @@
+:root {
+    --black-leather-jacket: #273c2c;
+    --granite-gray: #626868;
+    --spanish-gray: #939196;
+    --thistle: #d3c1d2;
+    --pink-lace: #ffe2fe;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html, body {
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    min-height: 100%;
+    height: 1px;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.page-wrapper {
+    height: 100%;
+}
+
+.container {
+    max-width: 1200px;
+    width: 100%;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+

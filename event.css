@@ -1,0 +1,24 @@
+.event {
+    max-width: 430px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid var(--thistle);
+    border-radius: 4px;
+    box-shadow: 0 10px 21px -10px black;
+    font-size: 16px;
+}
+
+.event__date {
+    font-size: 12px;
+    font-weight: bold;
+}
+
+.event__title {
+    margin-top: 13px;
+}
+
+.event__description {
+    margin-top: 9px;
+    font-size: 14px;
+    color: var(--spanish-gray);
+}
